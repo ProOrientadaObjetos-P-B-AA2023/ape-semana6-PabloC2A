@@ -2,6 +2,7 @@ package paquete1;
 
 import paquete2.*;
 import java.util.Scanner;
+
 public class Ejecutor {
     public static void main(String[] args) {
         //Variables usadas
